@@ -33,7 +33,7 @@ or deep-learning.
     - Loading a *csv* file
     - Merging many *csv* files
     - Essential check list: Missing Values, #Samples, Column Names, Unique Values, etc.
-    - Preprocessing: dropna, fillna, etc.
+    - Preprocessing: dropna, fillna, feature engineering, etc.
 3. Statistical Visualizations
     1. *matplotlib*: basic building block, essential for fine-tuning
         - lineplot, scatterplot, heatmap, etc
