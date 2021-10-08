@@ -46,5 +46,5 @@ or deep-learning.
     1. *ipywidgets*
     2. *plot.ly* express (parallel coordinates, parallel category)
     3. Others: *bokeh*, *altair*, etc.
-5. Automatic EDA Report: *pandas-profiling*
+5. Automatic EDA Report: *pandas-profiling*, *autoviz*, *sweetviz*
 6. Wrap-up
