@@ -47,4 +47,4 @@ or deep-learning.
     2. *plot.ly* express (parallel coordinates, parallel category)
     3. Others: *bokeh*, *altair*, etc.
 5. Automatic EDA Report: *pandas-profiling*, *autoviz*, *sweetviz*
-6. Wrap-up
+6. Wrap-up and some tips
