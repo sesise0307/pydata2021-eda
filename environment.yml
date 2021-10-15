@@ -10,7 +10,7 @@ dependencies:
   - matplotlib
   - numpy
   - pandas
-  - pandas_profiling
+  - pandas-profiling
   - pip
   - plotly
   - python=3.8.*
