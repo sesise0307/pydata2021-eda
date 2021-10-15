@@ -13,6 +13,8 @@ dependencies:
   - pandas-profiling
   - pip
   - plotly
+  - pyarrow
   - python=3.8.*
   - seaborn
   - sweetviz
+  - wordcloud
