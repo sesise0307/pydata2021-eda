@@ -8,6 +8,7 @@ dependencies:
   - ipywidgets
   - jupyter
   - matplotlib
+  - missingno
   - numpy
   - pandas
   - pandas-profiling
@@ -16,5 +17,6 @@ dependencies:
   - pyarrow
   - python=3.8.*
   - seaborn
+  - sidetable
   - sweetviz
   - wordcloud

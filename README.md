@@ -48,3 +48,9 @@ or deep-learning.
     3. Others: *bokeh*, *altair*, etc.
 5. Automatic EDA Report: *pandas-profiling*, *autoviz*, *sweetviz*
 6. Wrap-up and some tips
+
+## Contact
+
+- [Webpage](https://sesise.webflow.io/)
+- [LinkedIn](https://www.linkedin.com/in/sin-seok-seo-9a470949/)
+- [GitHub](https://github.com/sesise0307)
