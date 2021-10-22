@@ -32,12 +32,8 @@ or deep-learning.
     - `sidetable`
 3. [Statistical Visualizations](notebook/3_Statistical_Visualizations.ipynb)
     1. `matplotlib`: basic building block, essential for fine-tuning
-        - lineplot, scatterplot, heatmap, etc
     2. Visualization with *pandas*
-    3. `seaborn`: handy `matplotlib` wrapper for statistical visualization
-        - pairgrid, stripplot, distplot, barplot, violinplot, etc.
-        - tidy data
-        - fine-tuning: seaborn then *matplotlib*
+    3. `seaborn`: handy `matplotlib` wrapper for statistical visualizations
 4. (Easy Enough) [Interactive Visualizations](notebook/4_Interactive_Visualization.ipynb)
     1. `ipywidgets`
     2. `plot.ly` and `plot.ly` express
