@@ -11,29 +11,17 @@ or deep-learning.
 - Junior data scientist
 - Machine-learning researcher
 
-## What to Learn
-
-- Data loading and pre-processing
-- Statistical visualizations
-- (Easy enough) Interactive visualizations for data exploration
-- Automatic EDA report using pandas-profiling
-- How to use: *pandas*, *matplotlib*, *seaborn*, *ipywidgets*,
-  *plot.ly express* and *pandas-profiling*
-
-## Prerequisite
-
-- Must: Python (of course :))
-- Optional: a bit of experiences with *Jupyter notebook*, *pandas*
-  and *matplotlib*
+## [Introduction Slides](slides.pdf)
 
 ## Outline
 
-1. Introduction to EDA
+1. Introduction
 2. Data loading and preprocessing
     - Loading a *csv* file
     - Merging many *csv* files
     - Essential check list: Missing Values, #Samples, Column Names, Unique Values, etc.
-    - Preprocessing: dropna, fillna, feature engineering, etc.
+    - Preprocessing: fillna, dropna, feature engineering, etc.
+    - *sidetable*
 3. Statistical Visualizations
     1. *matplotlib*: basic building block, essential for fine-tuning
         - lineplot, scatterplot, heatmap, etc
@@ -44,10 +32,25 @@ or deep-learning.
         - fine-tuning: seaborn then *matplotlib*
 4. (Easy Enough) Interactive Visualizations
     1. *ipywidgets*
-    2. *plot.ly* express (parallel coordinates, parallel category)
-    3. Others: *bokeh*, *altair*, etc.
-5. Automatic EDA Report: *pandas-profiling*, *autoviz*, *sweetviz*
-6. Wrap-up and some tips
+    2. *plot.ly* and *plot.ly* express
+    3. *bokeh*
+    4. *altair*
+5. Automatic EDA Report
+   1. *dtale*
+   2. *pandas-profiling*
+   3. *sweetviz*
+   4. *autoviz*
+6. Wrap-up and Some Tips
+
+## Prerequisite
+
+- Some experiences with
+  - *Python*
+  - *Pandas*
+  - *Matplotlib*
+  - *Jupyter Notebook* (or similar)
+- GitHub & Google accounts
+- `Fork` this repo then go to: https://colab.research.google.com/github/{your_github_id}/pydata2021-eda/
 
 ## Contact
 
