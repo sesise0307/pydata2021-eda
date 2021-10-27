@@ -25,25 +25,27 @@ or deep-learning.
 
 1. [Introduction](slides.pdf)
 2. [Data loading and preprocessing](notebook/2_Data_Loading_and_Preprocessing.ipynb)
-    - Loading a *csv* file
-    - Merging many *csv* files
-    - Essential check list: Missing Values, #Samples, Column Names, Unique Values, etc.
-    - Preprocessing: fillna, dropna, feature engineering, etc.
-    - `sidetable`
+   - Loading a *csv* file
+   - Merging many *csv* files
+   - Essential check: #Samples, Column Names, Unique Values, Missing Values, etc.
+   - `sidetable`
+   - Preprocessing & Feture Engineering
+     - Handling missing values
+     - Extracting features
 3. [Statistical Visualizations](notebook/3_Statistical_Visualizations.ipynb)
-    1. `matplotlib`: basic building block, essential for fine-tuning
-    2. Visualization with *pandas*
-    3. `seaborn`: handy `matplotlib` wrapper for statistical visualizations
+   - `matplotlib`: basic building block, essential for fine-tuning
+   - `pandas`: data manipulation + plotting
+   - `seaborn`: handy `matplotlib` wrapper for statistical visualizations
 4. (Easy Enough) [Interactive Visualizations](notebook/4_Interactive_Visualization.ipynb)
-    1. `ipywidgets`
-    2. `plot.ly` and `plot.ly` express
-    3. `bokeh`
-    4. `altair`
+   - `ipywidgets`
+   - `plot.ly` and `plot.ly` express
+   - `bokeh`
+   - `altair`
 5. [Automatic EDA Report](notebook/5_Automatic_EDA.ipynb)
-   1. `dtale`
-   2. `pandas-profiling`
-   3. `sweetviz`
-   4. `autoviz`
+   - `dtale`
+   - `pandas-profiling`
+   - `sweetviz`
+   - `autoviz`
 6. Wrap-up and Some Tips
 
 ## Contact
