@@ -3,7 +3,9 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - altair
   - autoviz
+  - bokeh
   - dtale
   - ipywidgets
   - jupyter
